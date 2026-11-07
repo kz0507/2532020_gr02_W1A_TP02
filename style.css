@@ -42,11 +42,11 @@ nav a{
 }
 
 .texte_accueil{
-    width:450px;
+    width:500px;
 }
 
 .texte_accueil h1{
-    font-size: 48px;
+    font-size: 47px;
     margin-bottom:25px;
 }
 
@@ -56,10 +56,6 @@ nav a{
     line-height: 1.5;
 }
 
-/* Texte du titre */
-.texte_rouge {
-    color: #B94F4F;
-}
 
 /*Bouton*/
 .bouton{
