@@ -93,6 +93,12 @@ nav a{
     width: 40%;
 }
 
+
+.carte h3::before {
+    content: "■ ";
+    color:#E35E5E;
+}
+
 /* Les trois cartes */
 /* Les trois cartes */
 .creations {
